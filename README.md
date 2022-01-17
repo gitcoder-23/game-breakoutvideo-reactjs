@@ -1,7 +1,8 @@
-Welcome this project is the one that you see on Youtube in our Channel (EduRise - http://bit.ly/edurise_js)
+## Ball Breckout Game Using Reactjs
 
-Will be updating this project ReadMe Soon.
+(Deployed on Vercel - https://game-breakoutvideo-reactjs.vercel.app)
 
-To start with this project, simply do
+## To start with this project, simply do
+
 `yarn install`
 `yarn start`
