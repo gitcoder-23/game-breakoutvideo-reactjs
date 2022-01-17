@@ -1,6 +1,7 @@
 {
   "name": "breakoutvideogame",
   "you-tut": "https://youtu.be/ftDxniRTpRQ",
+  "Developer": "Prabhat",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

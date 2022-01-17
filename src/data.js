@@ -12,10 +12,10 @@ export default {
     y: 50,
     height: 20,
     density: 2,
-    colors: ["red", "lightblue"],
+    colors: ['red', 'lightblue'],
   },
   player: {
-    name: "Dhaval",
+    name: 'Prabhat',
     lives: 5,
     score: 0,
     level: 1,
@@ -24,6 +24,6 @@ export default {
     height: 20,
     width: 100,
     x: 100,
-    color: "orange",
+    color: 'orange',
   },
 };
